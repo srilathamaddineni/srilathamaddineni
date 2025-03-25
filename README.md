@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I am Srilatha Maddineni 👋
 
 <!--
-**srilathamaddineni/srilathamaddineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I'm a passionate software engineer with experience in full-stack development, cloud computing, and AI-driven applications. I enjoy building scalable, high-performance applications and automating workflows to improve efficiency.
+    🚀 About Me
+🔹 Software Engineer with experience in Java, Spring Boot, React, Node.js, and AWS
 
-Here are some ideas to get you started:
+🔹 Contributed to Geoweaver, an open-source data processing tool, improving UX and backend performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 Developed an AI-driven recommendation system using Amazon Bedrock & AWS Lambda
+
+🔹 Built CI/CD pipelines, automated infrastructure with Terraform, and containerized applications using Docker & Kubernetes
+
+🔹 Former Research Assistant at GMU & Associate Software Engineer at Optum Global Solutions
 -->
