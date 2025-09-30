@@ -32,7 +32,6 @@ Connect with Me: [LinkedIn](https://www.linkedin.com/in/srilatha-maddineni-77636
 
 ## 🎓 Certifications  
 
-- **AWS Certified Solutions Architect – Associate** 
 - **AWS Certified Cloud Practitioner**  
 
 ---
