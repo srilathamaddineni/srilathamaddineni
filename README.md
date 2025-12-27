@@ -10,7 +10,7 @@ Connect with Me: [LinkedIn](https://www.linkedin.com/in/srilatha-maddineni-77636
 
 ## 🚀 About Me 
 🔹 Former **Research Assistant at GMU** & **Associate Software Engineer at Optum Global Solutions**  
-🔹 **Software Engineer** with experience in **Java, Spring Boot, React, Node.js, and AWS**  
+🔹 **Software Engineer** with experience in **Java, Spring Boot, Microservices, React, Node.js, and AWS**  
 🔹 Contributed to **Geoweaver**, an open-source data processing tool, improving UX and backend performance  
 🔹 Developed an **AI-driven recommendation system** using **Amazon Bedrock & AWS Lambda**  
 🔹 Built **CI/CD pipelines**, automated infrastructure with **Terraform**, and containerized applications using **Docker & Kubernetes**  
