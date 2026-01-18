@@ -13,7 +13,7 @@ Connect with Me: [LinkedIn](https://www.linkedin.com/in/srilatha-maddineni-77636
 🔹 **Software Engineer at Arthrex** — building **Spring Boot microservices**, **RESTful APIs**, and **React-based UI features**  
 🔹 Former **Research Assistant at George Mason University** & **Associate Software Engineer at United Health Group**  
 🔹 Set up and maintained **Cypress-based UI and API test automation** to improve stability and testing efficiency for the **GeoWeaver** web platform  
-🔹 Worked on **test case creation, regression testing**, and built **Selenium + Cucumber automation frameworks** for the **Optum Pay** web application at United Health Group 
+🔹 Worked on **test case creation, regression testing**, and built **Selenium + Cucumber automation frameworks** for the **Optum Pay** web application at United Health Group  
 🔹 Integrated automated testing into **Jenkins CI/CD pipelines** for reliable and repeatable test execution  
 🔹 Enjoy working across **development and QA**, owning quality while growing as a software engineer  
 
